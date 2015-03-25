@@ -1,12 +1,14 @@
+# MobileConsole (mConsole)
+
 MConsole is a simple tool to be used in projects for mobile (hybrid). It was developed using the Phonegap framework as a test base. Through mConsole, you can see easily all console occurrences in the project (including errors).
 
 Should be used only for projects mobile.
 
-## How to use
+### How to use
 
 * Copy to root folder (or any folder inside of it) the file [mconsole.js](https://github.com/Wpdas/mConsole/blob/master/mconsole/mconsole.js), insert the same in your project and call its start function.
 
-Example ([demo.js](https://github.com/Wpdas/mConsole/blob/master/demo.js)):
+* Example ([demo.js](https://github.com/Wpdas/mConsole/blob/master/demo.js)):
 ```
 window.onload = function(){
 
