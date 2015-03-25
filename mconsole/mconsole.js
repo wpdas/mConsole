@@ -148,5 +148,7 @@ var $mConsole = {
 
           var interval = setInterval(getCallback, time);
       }
-  }
+  },
+
+  version:"mConsole v1.0.1"
 };

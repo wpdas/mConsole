@@ -12,6 +12,7 @@ window.onload = function(){
     $mConsole.init();
 
     //Execute console
+    console.log($mConsole.version);
     console.log("My log");
     console.warn("My warning");
     console.info("My info");
