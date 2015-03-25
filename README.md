@@ -9,7 +9,7 @@ Should be used only for projects mobile.
 * Copy to root folder (or any folder inside of it) the file [mconsole.js](https://github.com/Wpdas/mConsole/blob/master/mconsole/mconsole.js), insert the same in your project and call its start function.
 
 * Example ([demo.js](https://github.com/Wpdas/mConsole/blob/master/demo.js)):
-```
+```javascript
 window.onload = function(){
 
     //Start mobile console and pass height (optional) per parameter.
